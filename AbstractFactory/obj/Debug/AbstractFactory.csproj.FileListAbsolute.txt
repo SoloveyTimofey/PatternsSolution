@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\Learning\DI and Patterns\PatternsSolution\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\Learning\DI and Patterns\PatternsSolution\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\Learning\DI and Patterns\PatternsSolution\AbstractFactory\obj\Debug\AbstractFactory.pdb

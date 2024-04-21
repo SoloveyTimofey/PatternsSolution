@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\Цепочка обязанностей\obj\Debug\Цепочка обязанностей.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Цепочка обязанностей\obj\Debug\Цепочка обязанностей.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Цепочка обязанностей\bin\Debug\Цепочка обязанностей.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Цепочка обязанностей\bin\Debug\Цепочка обязанностей.exe
+D:\Learning\DI and Patterns\PatternsSolution\Цепочка обязанностей\bin\Debug\Цепочка обязанностей.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Цепочка обязанностей\obj\Debug\Цепочка обязанностей.exe
+D:\Learning\DI and Patterns\PatternsSolution\Цепочка обязанностей\obj\Debug\Цепочка обязанностей.pdb

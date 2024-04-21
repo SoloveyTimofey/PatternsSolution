@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\Итератор\bin\Debug\Итератор.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Итератор\bin\Debug\Итератор.exe
+D:\Learning\DI and Patterns\PatternsSolution\Итератор\bin\Debug\Итератор.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Итератор\obj\Debug\Итератор.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Итератор\obj\Debug\Итератор.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Итератор\obj\Debug\Итератор.exe
+D:\Learning\DI and Patterns\PatternsSolution\Итератор\obj\Debug\Итератор.pdb

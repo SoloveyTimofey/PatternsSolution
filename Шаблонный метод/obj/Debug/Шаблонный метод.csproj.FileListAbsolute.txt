@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\Шаблонный метод\bin\Debug\Шаблонный метод.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Шаблонный метод\bin\Debug\Шаблонный метод.exe
+D:\Learning\DI and Patterns\PatternsSolution\Шаблонный метод\bin\Debug\Шаблонный метод.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Шаблонный метод\obj\Debug\Шаблонный метод.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Шаблонный метод\obj\Debug\Шаблонный метод.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Шаблонный метод\obj\Debug\Шаблонный метод.exe
+D:\Learning\DI and Patterns\PatternsSolution\Шаблонный метод\obj\Debug\Шаблонный метод.pdb

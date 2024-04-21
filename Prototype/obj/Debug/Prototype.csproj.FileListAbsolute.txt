@@ -1,0 +1,11 @@
+D:\Learning\DI and Patterns\PatternsSolution\Prototype\bin\Debug\Prototype.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Prototype\bin\Debug\Prototype.exe
+D:\Learning\DI and Patterns\PatternsSolution\Prototype\bin\Debug\Prototype.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Prototype\bin\Debug\FabricMethod.exe
+D:\Learning\DI and Patterns\PatternsSolution\Prototype\bin\Debug\FabricMethod.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Prototype\bin\Debug\FabricMethod.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Prototype\obj\Debug\Prototype.csproj.Up2Date
+D:\Learning\DI and Patterns\PatternsSolution\Prototype\obj\Debug\Prototype.exe
+D:\Learning\DI and Patterns\PatternsSolution\Prototype\obj\Debug\Prototype.pdb

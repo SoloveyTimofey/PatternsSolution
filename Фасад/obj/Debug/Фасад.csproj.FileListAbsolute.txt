@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\Фасад\bin\Debug\Фасад.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Фасад\bin\Debug\Фасад.exe
+D:\Learning\DI and Patterns\PatternsSolution\Фасад\bin\Debug\Фасад.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Фасад\obj\Debug\Фасад.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Фасад\obj\Debug\Фасад.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Фасад\obj\Debug\Фасад.exe
+D:\Learning\DI and Patterns\PatternsSolution\Фасад\obj\Debug\Фасад.pdb

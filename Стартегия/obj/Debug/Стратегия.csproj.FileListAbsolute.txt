@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\Стартегия\bin\Debug\Стартегия.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Стартегия\bin\Debug\Стартегия.exe
+D:\Learning\DI and Patterns\PatternsSolution\Стартегия\bin\Debug\Стартегия.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Стартегия\obj\Debug\Стратегия.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Стартегия\obj\Debug\Стратегия.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Стартегия\obj\Debug\Стартегия.exe
+D:\Learning\DI and Patterns\PatternsSolution\Стартегия\obj\Debug\Стартегия.pdb

@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\Команда\bin\Debug\Команда.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Команда\bin\Debug\Команда.exe
+D:\Learning\DI and Patterns\PatternsSolution\Команда\bin\Debug\Команда.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Команда\obj\Debug\Команда.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Команда\obj\Debug\Команда.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Команда\obj\Debug\Команда.exe
+D:\Learning\DI and Patterns\PatternsSolution\Команда\obj\Debug\Команда.pdb

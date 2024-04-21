@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\Посредник\bin\Debug\Посредник.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Посредник\bin\Debug\Посредник.exe
+D:\Learning\DI and Patterns\PatternsSolution\Посредник\bin\Debug\Посредник.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Посредник\obj\Debug\Посредник.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Посредник\obj\Debug\Посредник.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Посредник\obj\Debug\Посредник.exe
+D:\Learning\DI and Patterns\PatternsSolution\Посредник\obj\Debug\Посредник.pdb

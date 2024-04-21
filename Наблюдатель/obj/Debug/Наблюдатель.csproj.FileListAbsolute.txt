@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\Наблюдатель\bin\Debug\Наблюдатель.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Наблюдатель\bin\Debug\Наблюдатель.exe
+D:\Learning\DI and Patterns\PatternsSolution\Наблюдатель\bin\Debug\Наблюдатель.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Наблюдатель\obj\Debug\Наблюдатель.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Наблюдатель\obj\Debug\Наблюдатель.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Наблюдатель\obj\Debug\Наблюдатель.exe
+D:\Learning\DI and Patterns\PatternsSolution\Наблюдатель\obj\Debug\Наблюдатель.pdb

@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\FabricMethod\bin\Debug\FabricMethod.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\FabricMethod\bin\Debug\FabricMethod.exe
+D:\Learning\DI and Patterns\PatternsSolution\FabricMethod\bin\Debug\FabricMethod.pdb
+D:\Learning\DI and Patterns\PatternsSolution\FabricMethod\obj\Debug\FabricMethod.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\FabricMethod\obj\Debug\FabricMethod.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\FabricMethod\obj\Debug\FabricMethod.exe
+D:\Learning\DI and Patterns\PatternsSolution\FabricMethod\obj\Debug\FabricMethod.pdb

@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\Adapter\bin\Debug\Adapter.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Adapter\bin\Debug\Adapter.exe
+D:\Learning\DI and Patterns\PatternsSolution\Adapter\bin\Debug\Adapter.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Adapter\obj\Debug\Adapter.exe
+D:\Learning\DI and Patterns\PatternsSolution\Adapter\obj\Debug\Adapter.pdb

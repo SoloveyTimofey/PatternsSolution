@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\Состояние\bin\Debug\Состояние.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Состояние\bin\Debug\Состояние.exe
+D:\Learning\DI and Patterns\PatternsSolution\Состояние\bin\Debug\Состояние.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Состояние\obj\Debug\Состояние.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Состояние\obj\Debug\Состояние.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Состояние\obj\Debug\Состояние.exe
+D:\Learning\DI and Patterns\PatternsSolution\Состояние\obj\Debug\Состояние.pdb

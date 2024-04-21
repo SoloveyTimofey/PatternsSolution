@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\Заместитель\bin\Debug\Заместитель.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Заместитель\bin\Debug\Заместитель.exe
+D:\Learning\DI and Patterns\PatternsSolution\Заместитель\bin\Debug\Заместитель.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Заместитель\obj\Debug\Заместитель.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Заместитель\obj\Debug\Заместитель.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Заместитель\obj\Debug\Заместитель.exe
+D:\Learning\DI and Patterns\PatternsSolution\Заместитель\obj\Debug\Заместитель.pdb

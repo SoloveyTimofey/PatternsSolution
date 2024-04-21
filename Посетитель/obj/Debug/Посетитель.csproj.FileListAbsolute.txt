@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\Посетитель\bin\Debug\Посетитель.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Посетитель\bin\Debug\Посетитель.exe
+D:\Learning\DI and Patterns\PatternsSolution\Посетитель\bin\Debug\Посетитель.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Посетитель\obj\Debug\Посетитель.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Посетитель\obj\Debug\Посетитель.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Посетитель\obj\Debug\Посетитель.exe
+D:\Learning\DI and Patterns\PatternsSolution\Посетитель\obj\Debug\Посетитель.pdb

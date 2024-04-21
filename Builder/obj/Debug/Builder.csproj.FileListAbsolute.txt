@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\Builder\bin\Debug\Builder.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Builder\bin\Debug\Builder.exe
+D:\Learning\DI and Patterns\PatternsSolution\Builder\bin\Debug\Builder.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Builder\obj\Debug\Builder.exe
+D:\Learning\DI and Patterns\PatternsSolution\Builder\obj\Debug\Builder.pdb
