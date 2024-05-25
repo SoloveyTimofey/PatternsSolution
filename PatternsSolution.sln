@@ -37,59 +37,57 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Composite", "Composite", "{E9D53368-7B10-4153-B92F-573CE0FFF158}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Компоновщик", "Компоновщик\Компоновщик.csproj", "{7E6F9145-1097-4800-99FF-2AB3E99BF459}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Combinations", "Combinations", "{D679CC1C-FDF0-46B2-9453-8EDEFE08CC37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Компоновщик\Composite.csproj", "{7E6F9145-1097-4800-99FF-2AB3E99BF459}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Facade", "Facade", "{F2D4A16B-0CA5-457C-8D26-21C21926C2A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Фасад", "Фасад\Фасад.csproj", "{190A9177-C6D7-4694-AA0D-AE74DF3974D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Фасад\Facade.csproj", "{190A9177-C6D7-4694-AA0D-AE74DF3974D7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Flyweight", "Flyweight", "{C13946CC-60F9-40F2-BE33-BE4A046AB41A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Приспособленец", "Приспособленец\Приспособленец.csproj", "{C06A3F39-48BA-48FB-8F06-9F686BAE80F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Приспособленец\Flyweight.csproj", "{C06A3F39-48BA-48FB-8F06-9F686BAE80F0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proxy", "Proxy", "{B19C38EF-DABA-4065-A78F-B7E1B5B7423F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Заместитель", "Заместитель\Заместитель.csproj", "{6178BF2D-78CA-4F01-903B-542DBE27F825}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Заместитель\Proxy.csproj", "{6178BF2D-78CA-4F01-903B-542DBE27F825}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Паттерны поведения", "Паттерны поведения", "{F9D5D2C9-B746-445E-BE50-23F25420E892}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chain Of Responsibility", "Chain Of Responsibility", "{136432CB-9CFF-4938-801E-367CE22522E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Цепочка обязанностей", "Цепочка обязанностей\Цепочка обязанностей.csproj", "{739BA5CD-D293-4874-BA8F-7B95B929CABD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "Цепочка обязанностей\ChainOfResponsibility.csproj", "{739BA5CD-D293-4874-BA8F-7B95B929CABD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Command", "Command", "{5ADF6C4A-72D7-4FEF-9E16-297CD2BF9783}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Команда", "Команда\Команда.csproj", "{01B1D7CE-A89D-4C78-8405-B55149F295A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Команда\Command.csproj", "{01B1D7CE-A89D-4C78-8405-B55149F295A3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Iterator", "Iterator", "{135FB547-6B3A-4E79-AA32-B8A1794C6F05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Итератор", "Итератор\Итератор.csproj", "{410EB09E-3F32-4DDB-9FBD-7108C4EDF8DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Итератор\Iterator.csproj", "{410EB09E-3F32-4DDB-9FBD-7108C4EDF8DE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mediator", "Mediator", "{E182598A-451F-49DB-A15F-CE82B5E35A64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Посредник", "Посредник\Посредник.csproj", "{47127BEB-5899-41B6-AA8B-D9E36512DD92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Посредник\Mediator.csproj", "{47127BEB-5899-41B6-AA8B-D9E36512DD92}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Observer", "Observer", "{D76F8486-AC90-456D-86BD-BEBEF9C20CD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Наблюдатель", "Наблюдатель\Наблюдатель.csproj", "{27183734-D2BD-4EF5-9F04-A2BE2DE25523}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Наблюдатель\Observer.csproj", "{27183734-D2BD-4EF5-9F04-A2BE2DE25523}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "State", "State", "{BB5AB2AD-65CA-42D8-B039-5A81BAB0BE60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Состояние", "Состояние\Состояние.csproj", "{B098810A-1A45-4665-8932-582E15E1D8B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "Состояние\State.csproj", "{B098810A-1A45-4665-8932-582E15E1D8B2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strategy", "Strategy", "{7DB591D2-42BA-4A55-A8F2-E89884494F9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Стратегия", "Стартегия\Стратегия.csproj", "{CC8358A5-D3EE-41F7-9774-2FC6CA157C4A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Стартегия\Strategy.csproj", "{CC8358A5-D3EE-41F7-9774-2FC6CA157C4A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Template Method", "Template Method", "{5243DCA6-9B78-4D30-91DA-27849F705C49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Шаблонный метод", "Шаблонный метод\Шаблонный метод.csproj", "{7F0C7A1A-FFC4-4DC1-A959-0D0A1066F01F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template Method", "Шаблонный метод\Template Method.csproj", "{7F0C7A1A-FFC4-4DC1-A959-0D0A1066F01F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visitor", "Visitor", "{FA79B491-9A03-451E-8903-57F9827A6CC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Посетитель", "Посетитель\Посетитель.csproj", "{39CAF920-4611-4BC8-947D-786AF43788A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Посетитель\Visitor.csproj", "{39CAF920-4611-4BC8-947D-786AF43788A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

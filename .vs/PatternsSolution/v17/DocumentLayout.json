@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "D:\\Learning\\DI and Patterns\\PatternsSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employeenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|solutionrelative:\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employeenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|d:\\learning\\di and patterns\\patternssolution\\\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|solutionrelative:\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,8 +19,44 @@
       "RelativeMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|solutionrelative:\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employees\\advertiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|solutionrelative:\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employees\\advertiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employeenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|solutionrelative:\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employeenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employeeoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|solutionrelative:\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employeeoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\filesystemitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\filesystemitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC34D7E-AB33-4774-B4AC-5256954A3889}|Prototype\\Prototype.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\prototype\\chiefburgerprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC34D7E-AB33-4774-B4AC-5256954A3889}|Prototype\\Prototype.csproj|solutionrelative:prototype\\chiefburgerprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC34D7E-AB33-4774-B4AC-5256954A3889}|Prototype\\Prototype.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC34D7E-AB33-4774-B4AC-5256954A3889}|Prototype\\Prototype.csproj|solutionrelative:prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC34D7E-AB33-4774-B4AC-5256954A3889}|Prototype\\Prototype.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\prototype\\burgerprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC34D7E-AB33-4774-B4AC-5256954A3889}|Prototype\\Prototype.csproj|solutionrelative:prototype\\burgerprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47127BEB-5899-41B6-AA8B-D9E36512DD92}|\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\mediator\\chatmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47127BEB-5899-41B6-AA8B-D9E36512DD92}|\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A.csproj|solutionrelative:\u043F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\mediator\\chatmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\abstractfactory\\modernfurniturefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +71,48 @@
       "RelativeMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\furniturefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{47127BEB-5899-41B6-AA8B-D9E36512DD92}|\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47127BEB-5899-41B6-AA8B-D9E36512DD92}|\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A.csproj|solutionrelative:\u043F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190A9177-C6D7-4694-AA0D-AE74DF3974D7}|\u0424\u0430\u0441\u0430\u0434\\\u0424\u0430\u0441\u0430\u0434.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0444\u0430\u0441\u0430\u0434\\stockfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190A9177-C6D7-4694-AA0D-AE74DF3974D7}|\u0424\u0430\u0441\u0430\u0434\\\u0424\u0430\u0441\u0430\u0434.csproj|solutionrelative:\u0444\u0430\u0441\u0430\u0434\\stockfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27183734-D2BD-4EF5-9F04-A2BE2DE25523}|\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\observer\\taskpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27183734-D2BD-4EF5-9F04-A2BE2DE25523}|\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C.csproj|solutionrelative:\u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\observer\\taskpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27183734-D2BD-4EF5-9F04-A2BE2DE25523}|\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27183734-D2BD-4EF5-9F04-A2BE2DE25523}|\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C.csproj|solutionrelative:\u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27183734-D2BD-4EF5-9F04-A2BE2DE25523}|\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\observer\\iobservable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27183734-D2BD-4EF5-9F04-A2BE2DE25523}|\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C.csproj|solutionrelative:\u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\observer\\iobservable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6178BF2D-78CA-4F01-903B-542DBE27F825}|\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0437\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\databaseproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6178BF2D-78CA-4F01-903B-542DBE27F825}|\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C.csproj|solutionrelative:\u0437\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\databaseproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BB13F-1D43-4CBA-8515-A8486569C56B}|FabricMethod\\FabricMethod.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\fabricmethod\\fabricmethods\\createcheeseburgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BB13F-1D43-4CBA-8515-A8486569C56B}|FabricMethod\\FabricMethod.csproj|solutionrelative:fabricmethod\\fabricmethods\\createcheeseburgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\abstractfactory\\vintagefurniturefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\vintagefurniturefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\abstractfactory\\moderntable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\moderntable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employees\\advertiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|solutionrelative:\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employees\\advertiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B02BB670-6E15-4924-BD4C-A19C65B35F0D}|Builder\\Builder.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\builder\\burgerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,24 +127,8 @@
       "RelativeMoniker": "D:0:0:{3D2BB13F-1D43-4CBA-8515-A8486569C56B}|FabricMethod\\FabricMethod.csproj|solutionrelative:fabricmethod\\fabricmethods\\createchiefburgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D2BB13F-1D43-4CBA-8515-A8486569C56B}|FabricMethod\\FabricMethod.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\fabricmethod\\fabricmethods\\createcheeseburgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D2BB13F-1D43-4CBA-8515-A8486569C56B}|FabricMethod\\FabricMethod.csproj|solutionrelative:fabricmethod\\fabricmethods\\createcheeseburgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D2BB13F-1D43-4CBA-8515-A8486569C56B}|FabricMethod\\FabricMethod.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\fabricmethod\\classes\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D2BB13F-1D43-4CBA-8515-A8486569C56B}|FabricMethod\\FabricMethod.csproj|solutionrelative:fabricmethod\\classes\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC34D7E-AB33-4774-B4AC-5256954A3889}|Prototype\\Prototype.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC34D7E-AB33-4774-B4AC-5256954A3889}|Prototype\\Prototype.csproj|solutionrelative:prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC34D7E-AB33-4774-B4AC-5256954A3889}|Prototype\\Prototype.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\prototype\\chiefburgerprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC34D7E-AB33-4774-B4AC-5256954A3889}|Prototype\\Prototype.csproj|solutionrelative:prototype\\chiefburgerprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC34D7E-AB33-4774-B4AC-5256954A3889}|Prototype\\Prototype.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\prototype\\burgerprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC34D7E-AB33-4774-B4AC-5256954A3889}|Prototype\\Prototype.csproj|solutionrelative:prototype\\burgerprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1BB4C8F-41D7-4BAF-B1A6-2C079887A3F1}|Adapter\\Adapter.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\adapter\\mockcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,44 +147,12 @@
       "RelativeMoniker": "D:0:0:{1A2D4110-86BE-43F6-88B6-01C83CA8871C}|Bridge\\Bridge.csproj|solutionrelative:bridge\\idrawingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\filesystemitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\filesystemitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6F9145-1097-4800-99FF-2AB3E99BF459}|\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47127BEB-5899-41B6-AA8B-D9E36512DD92}|\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47127BEB-5899-41B6-AA8B-D9E36512DD92}|\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A.csproj|solutionrelative:\u043F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47127BEB-5899-41B6-AA8B-D9E36512DD92}|\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\mediator\\chatmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47127BEB-5899-41B6-AA8B-D9E36512DD92}|\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A.csproj|solutionrelative:\u043F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\mediator\\chatmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47127BEB-5899-41B6-AA8B-D9E36512DD92}|\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\mediator\\ichatmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47127BEB-5899-41B6-AA8B-D9E36512DD92}|\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A.csproj|solutionrelative:\u043F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\mediator\\ichatmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27183734-D2BD-4EF5-9F04-A2BE2DE25523}|\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\observer\\taskpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27183734-D2BD-4EF5-9F04-A2BE2DE25523}|\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C.csproj|solutionrelative:\u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\observer\\taskpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27183734-D2BD-4EF5-9F04-A2BE2DE25523}|\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27183734-D2BD-4EF5-9F04-A2BE2DE25523}|\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C.csproj|solutionrelative:\u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27183734-D2BD-4EF5-9F04-A2BE2DE25523}|\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\observer\\iobservable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27183734-D2BD-4EF5-9F04-A2BE2DE25523}|\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C.csproj|solutionrelative:\u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\observer\\iobservable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B098810A-1A45-4665-8932-582E15E1D8B2}|\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\readyburgerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,7 +167,7 @@
       "RelativeMoniker": "D:0:0:{B098810A-1A45-4665-8932-582E15E1D8B2}|\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435.csproj|solutionrelative:\u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\payingburgerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B098810A-1A45-4665-8932-582E15E1D8B2}|\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435.csproj|d:\\learning\\di and patterns\\patternssolution\\\u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B098810A-1A45-4665-8932-582E15E1D8B2}|\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B098810A-1A45-4665-8932-582E15E1D8B2}|\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435.csproj|solutionrelative:\u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -295,24 +319,12 @@
       "RelativeMoniker": "D:0:0:{27183734-D2BD-4EF5-9F04-A2BE2DE25523}|\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C.csproj|solutionrelative:\u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\secondary\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employeeoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{739BA5CD-D293-4874-BA8F-7B95B929CABD}|\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439.csproj|solutionrelative:\u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\employeeoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6178BF2D-78CA-4F01-903B-542DBE27F825}|\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0437\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6178BF2D-78CA-4F01-903B-542DBE27F825}|\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C.csproj|solutionrelative:\u0437\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6178BF2D-78CA-4F01-903B-542DBE27F825}|\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0437\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\stockfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6178BF2D-78CA-4F01-903B-542DBE27F825}|\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C.csproj|solutionrelative:\u0437\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\stockfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6178BF2D-78CA-4F01-903B-542DBE27F825}|\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0437\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\databaseproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6178BF2D-78CA-4F01-903B-542DBE27F825}|\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C.csproj|solutionrelative:\u0437\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\databaseproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47127BEB-5899-41B6-AA8B-D9E36512DD92}|\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u043F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47127BEB-5899-41B6-AA8B-D9E36512DD92}|\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A.csproj|solutionrelative:\u043F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{410EB09E-3F32-4DDB-9FBD-7108C4EDF8DE}|\u0418\u0442\u0435\u0440\u0430\u0442\u043E\u0440\\\u0418\u0442\u0435\u0440\u0430\u0442\u043E\u0440.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0438\u0442\u0435\u0440\u0430\u0442\u043E\u0440\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -341,10 +353,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{190A9177-C6D7-4694-AA0D-AE74DF3974D7}|\u0424\u0430\u0441\u0430\u0434\\\u0424\u0430\u0441\u0430\u0434.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0444\u0430\u0441\u0430\u0434\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{190A9177-C6D7-4694-AA0D-AE74DF3974D7}|\u0424\u0430\u0441\u0430\u0434\\\u0424\u0430\u0441\u0430\u0434.csproj|solutionrelative:\u0444\u0430\u0441\u0430\u0434\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{190A9177-C6D7-4694-AA0D-AE74DF3974D7}|\u0424\u0430\u0441\u0430\u0434\\\u0424\u0430\u0441\u0430\u0434.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0444\u0430\u0441\u0430\u0434\\stockfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{190A9177-C6D7-4694-AA0D-AE74DF3974D7}|\u0424\u0430\u0441\u0430\u0434\\\u0424\u0430\u0441\u0430\u0434.csproj|solutionrelative:\u0444\u0430\u0441\u0430\u0434\\stockfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B02BB670-6E15-4924-BD4C-A19C65B35F0D}|Builder\\Builder.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\builder\\iburgerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -447,20 +455,12 @@
       "RelativeMoniker": "D:0:0:{3D2BB13F-1D43-4CBA-8515-A8486569C56B}|FabricMethod\\FabricMethod.csproj|solutionrelative:fabricmethod\\fabricmethods\\iburgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\abstractfactory\\vintagefurniturefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\vintagefurniturefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\abstractfactory\\vintagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\vintagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\abstractfactory\\vintagechair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\vintagechair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A12AB90-8312-4784-BFE6-38F8430153CF}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{899A61D5-9FB3-454C-84EC-46A260BD2885}|Singleton\\Singleton.csproj|D:\\Learning\\DI and Patterns\\PatternsSolution\\singleton\\vintagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -550,7 +550,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -562,202 +562,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ModernTable.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\ModernTable.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\ModernTable.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\ModernTable.cs",
-              "RelativeToolTip": "AbstractFactory\\ModernTable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T11:44:45.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ModernChair.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\ModernChair.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\ModernChair.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\ModernChair.cs",
-              "RelativeToolTip": "AbstractFactory\\ModernChair.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Title": "Directory.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Directory.cs",
+              "RelativeDocumentMoniker": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Directory.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Directory.cs",
+              "RelativeToolTip": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Directory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T11:43:18.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T13:26:46.775Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "FurnitureFactory.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\FurnitureFactory.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\FurnitureFactory.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\FurnitureFactory.cs",
-              "RelativeToolTip": "AbstractFactory\\FurnitureFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "FileSystemItem.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\FileSystemItem.cs",
+              "RelativeDocumentMoniker": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\FileSystemItem.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\FileSystemItem.cs",
+              "RelativeToolTip": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\FileSystemItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T11:36:10.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T13:21:33.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "File.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\File.cs",
+              "RelativeDocumentMoniker": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\File.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\File.cs",
+              "RelativeToolTip": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\File.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:24:37.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Program.cs",
+              "RelativeDocumentMoniker": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Program.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Program.cs",
+              "RelativeToolTip": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA4wCEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:18:26.768Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmployeeNotifier.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeNotifier.cs",
-              "RelativeDocumentMoniker": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeNotifier.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeNotifier.cs",
-              "RelativeToolTip": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeNotifier.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBkAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:04:26.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Advertiser.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Advertiser.cs",
-              "RelativeDocumentMoniker": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Advertiser.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Advertiser.cs",
-              "RelativeToolTip": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Advertiser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:06:11.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Employee.cs",
               "RelativeDocumentMoniker": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Employee.cs",
               "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Employee.cs",
               "RelativeToolTip": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Employee.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAADgvxMAAAAlAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T11:04:43.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Program.cs",
-              "RelativeDocumentMoniker": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Program.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Program.cs",
-              "RelativeToolTip": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T10:14:21.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Loader.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Loader.cs",
-              "RelativeDocumentMoniker": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Loader.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Loader.cs",
-              "RelativeToolTip": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Loader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:05:36.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Manager.cs",
-              "RelativeDocumentMoniker": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Manager.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Manager.cs",
-              "RelativeToolTip": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Manager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:05:39.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ModernFurnitureFactory.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\ModernFurnitureFactory.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\ModernFurnitureFactory.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\ModernFurnitureFactory.cs",
-              "RelativeToolTip": "AbstractFactory\\ModernFurnitureFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T11:46:53.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BurgerBuilder.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Builder\\BurgerBuilder.cs",
-              "RelativeDocumentMoniker": "Builder\\BurgerBuilder.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Builder\\BurgerBuilder.cs",
-              "RelativeToolTip": "Builder\\BurgerBuilder.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwAgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T21:00:21.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "BurgerChiefDirector.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Builder\\BurgerChiefDirector.cs",
-              "RelativeDocumentMoniker": "Builder\\BurgerChiefDirector.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Builder\\BurgerChiefDirector.cs",
-              "RelativeToolTip": "Builder\\BurgerChiefDirector.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T20:59:38.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateChiefBurgerFactory.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\FabricMethod\\FabricMethods\\CreateChiefBurgerFactory.cs",
-              "RelativeDocumentMoniker": "FabricMethod\\FabricMethods\\CreateChiefBurgerFactory.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\FabricMethod\\FabricMethods\\CreateChiefBurgerFactory.cs",
-              "RelativeToolTip": "FabricMethod\\FabricMethods\\CreateChiefBurgerFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T11:37:06.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateCheeseBurgerFactory.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\FabricMethod\\FabricMethods\\CreateCheeseBurgerFactory.cs",
-              "RelativeDocumentMoniker": "FabricMethod\\FabricMethods\\CreateCheeseBurgerFactory.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\FabricMethod\\FabricMethods\\CreateCheeseBurgerFactory.cs",
-              "RelativeToolTip": "FabricMethod\\FabricMethods\\CreateCheeseBurgerFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T11:29:13.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Burger.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\FabricMethod\\Classes\\Burger.cs",
-              "RelativeDocumentMoniker": "FabricMethod\\Classes\\Burger.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\FabricMethod\\Classes\\Burger.cs",
-              "RelativeToolTip": "FabricMethod\\Classes\\Burger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T11:23:14.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Prototype\\Program.cs",
               "RelativeDocumentMoniker": "Prototype\\Program.cs",
@@ -770,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "ChiefBurgerPrototype.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Prototype\\ChiefBurgerPrototype.cs",
               "RelativeDocumentMoniker": "Prototype\\ChiefBurgerPrototype.cs",
@@ -783,20 +649,325 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 4,
+              "Title": "EmployeeNotifier.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeNotifier.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeNotifier.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeNotifier.cs",
+              "RelativeToolTip": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeNotifier.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:04:26.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeOffice.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeOffice.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeOffice.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeOffice.cs",
+              "RelativeToolTip": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeOffice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:04:38.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Program.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Program.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Program.cs",
+              "RelativeToolTip": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:14:21.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Loader.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Loader.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Loader.cs",
+              "RelativeToolTip": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Loader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:05:36.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Manager.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Manager.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Manager.cs",
+              "RelativeToolTip": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:05:39.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "BurgerPrototype.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Prototype\\BurgerPrototype.cs",
               "RelativeDocumentMoniker": "Prototype\\BurgerPrototype.cs",
               "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Prototype\\BurgerPrototype.cs",
               "RelativeToolTip": "Prototype\\BurgerPrototype.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T13:41:28.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ModernFurnitureFactory.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\ModernFurnitureFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\ModernFurnitureFactory.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\ModernFurnitureFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\ModernFurnitureFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:46:53.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ModernChair.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\ModernChair.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\ModernChair.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\ModernChair.cs",
+              "RelativeToolTip": "AbstractFactory\\ModernChair.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:43:18.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FurnitureFactory.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\FurnitureFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\FurnitureFactory.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\FurnitureFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\FurnitureFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:36:10.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChatMediator.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\Mediator\\ChatMediator.cs",
+              "RelativeDocumentMoniker": "\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\Mediator\\ChatMediator.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\Mediator\\ChatMediator.cs",
+              "RelativeToolTip": "\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\Mediator\\ChatMediator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:07:30.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\User.cs",
+              "RelativeDocumentMoniker": "\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\User.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\User.cs",
+              "RelativeToolTip": "\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:05:12.017Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "StockFacade.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0424\u0430\u0441\u0430\u0434\\StockFacade.cs",
+              "RelativeDocumentMoniker": "\u0424\u0430\u0441\u0430\u0434\\StockFacade.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0424\u0430\u0441\u0430\u0434\\StockFacade.cs",
+              "RelativeToolTip": "\u0424\u0430\u0441\u0430\u0434\\StockFacade.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:36:45.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TaskPool.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\TaskPool.cs",
+              "RelativeDocumentMoniker": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\TaskPool.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\TaskPool.cs",
+              "RelativeToolTip": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\TaskPool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:32:59.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObserver.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObserver.cs",
+              "RelativeToolTip": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:26:59.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IObservable.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObservable.cs",
+              "RelativeDocumentMoniker": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObservable.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObservable.cs",
+              "RelativeToolTip": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObservable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:27:13.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DatabaseProxy.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\DatabaseProxy.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\DatabaseProxy.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\DatabaseProxy.cs",
+              "RelativeToolTip": "\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\DatabaseProxy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T17:59:36.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateCheeseBurgerFactory.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\FabricMethod\\FabricMethods\\CreateCheeseBurgerFactory.cs",
+              "RelativeDocumentMoniker": "FabricMethod\\FabricMethods\\CreateCheeseBurgerFactory.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\FabricMethod\\FabricMethods\\CreateCheeseBurgerFactory.cs",
+              "RelativeToolTip": "FabricMethod\\FabricMethods\\CreateCheeseBurgerFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:29:13.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VintageFurnitureFactory.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\VintageFurnitureFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\VintageFurnitureFactory.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\VintageFurnitureFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\VintageFurnitureFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:46:21.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Program.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\Program.cs",
+              "RelativeToolTip": "AbstractFactory\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:04:35.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BurgerBuilder.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Builder\\BurgerBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\BurgerBuilder.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Builder\\BurgerBuilder.cs",
+              "RelativeToolTip": "Builder\\BurgerBuilder.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T21:00:21.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ModernTable.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\ModernTable.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\ModernTable.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\ModernTable.cs",
+              "RelativeToolTip": "AbstractFactory\\ModernTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:44:45.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Advertiser.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Advertiser.cs",
+              "RelativeDocumentMoniker": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Advertiser.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Advertiser.cs",
+              "RelativeToolTip": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Advertiser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:06:11.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BurgerChiefDirector.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Builder\\BurgerChiefDirector.cs",
+              "RelativeDocumentMoniker": "Builder\\BurgerChiefDirector.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Builder\\BurgerChiefDirector.cs",
+              "RelativeToolTip": "Builder\\BurgerChiefDirector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:59:38.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateChiefBurgerFactory.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\FabricMethod\\FabricMethods\\CreateChiefBurgerFactory.cs",
+              "RelativeDocumentMoniker": "FabricMethod\\FabricMethods\\CreateChiefBurgerFactory.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\FabricMethod\\FabricMethods\\CreateChiefBurgerFactory.cs",
+              "RelativeToolTip": "FabricMethod\\FabricMethods\\CreateChiefBurgerFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:37:06.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Burger.cs",
+              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\FabricMethod\\Classes\\Burger.cs",
+              "RelativeDocumentMoniker": "FabricMethod\\Classes\\Burger.cs",
+              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\FabricMethod\\Classes\\Burger.cs",
+              "RelativeToolTip": "FabricMethod\\Classes\\Burger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:23:14.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "MockCircle.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Adapter\\MockCircle.cs",
               "RelativeDocumentMoniker": "Adapter\\MockCircle.cs",
@@ -809,7 +980,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 33,
               "Title": "ICircle.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Adapter\\ICircle.cs",
               "RelativeDocumentMoniker": "Adapter\\ICircle.cs",
@@ -822,7 +993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 34,
               "Title": "CircleAdapter.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Adapter\\CircleAdapter.cs",
               "RelativeDocumentMoniker": "Adapter\\CircleAdapter.cs",
@@ -835,7 +1006,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 35,
               "Title": "IDrawingAPI.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Bridge\\IDrawingAPI.cs",
               "RelativeDocumentMoniker": "Bridge\\IDrawingAPI.cs",
@@ -848,59 +1019,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Directory.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Directory.cs",
-              "RelativeDocumentMoniker": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Directory.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Directory.cs",
-              "RelativeToolTip": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Directory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T13:26:46.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "FileSystemItem.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\FileSystemItem.cs",
-              "RelativeDocumentMoniker": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\FileSystemItem.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\FileSystemItem.cs",
-              "RelativeToolTip": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\FileSystemItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T13:21:33.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "File.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\File.cs",
-              "RelativeDocumentMoniker": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\File.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\File.cs",
-              "RelativeToolTip": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\File.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T13:24:37.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Program.cs",
-              "RelativeDocumentMoniker": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Program.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Program.cs",
-              "RelativeToolTip": "\u041A\u043E\u043C\u043F\u043E\u043D\u043E\u0432\u0449\u0438\u043A\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAiwA0AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T13:18:26.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\Program.cs",
               "RelativeDocumentMoniker": "\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\Program.cs",
@@ -908,25 +1027,11 @@
               "RelativeToolTip": "\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T13:50:25.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T13:50:25.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ChatMediator.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\Mediator\\ChatMediator.cs",
-              "RelativeDocumentMoniker": "\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\Mediator\\ChatMediator.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\Mediator\\ChatMediator.cs",
-              "RelativeToolTip": "\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\Mediator\\ChatMediator.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T14:07:30.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "IChatMediator.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\Mediator\\IChatMediator.cs",
               "RelativeDocumentMoniker": "\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\Mediator\\IChatMediator.cs",
@@ -934,51 +1039,11 @@
               "RelativeToolTip": "\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\Mediator\\IChatMediator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T14:04:43.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T14:04:43.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "TaskPool.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\TaskPool.cs",
-              "RelativeDocumentMoniker": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\TaskPool.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\TaskPool.cs",
-              "RelativeToolTip": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\TaskPool.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T13:32:59.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IObserver.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObserver.cs",
-              "RelativeDocumentMoniker": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObserver.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObserver.cs",
-              "RelativeToolTip": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObserver.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T13:26:59.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IObservable.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObservable.cs",
-              "RelativeDocumentMoniker": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObservable.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObservable.cs",
-              "RelativeToolTip": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Observer\\IObservable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T13:27:13.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "ReadyBurgerState.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\ReadyBurgerState.cs",
               "RelativeDocumentMoniker": "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\ReadyBurgerState.cs",
@@ -986,12 +1051,11 @@
               "RelativeToolTip": "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\ReadyBurgerState.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T19:25:47.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T19:25:47.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "OrderingBurgerState.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\OrderingBurgerState.cs",
               "RelativeDocumentMoniker": "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\OrderingBurgerState.cs",
@@ -999,12 +1063,11 @@
               "RelativeToolTip": "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\OrderingBurgerState.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAxwBEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T19:25:07.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T19:25:07.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "PayingBurgerState.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\PayingBurgerState.cs",
               "RelativeDocumentMoniker": "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\PayingBurgerState.cs",
@@ -1012,12 +1075,11 @@
               "RelativeToolTip": "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\PayingBurgerState.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwCMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T19:25:32.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T19:25:32.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\Program.cs",
               "RelativeDocumentMoniker": "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\Program.cs",
@@ -1025,12 +1087,11 @@
               "RelativeToolTip": "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T19:14:26.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T19:14:26.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "IBurgerState.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\IBurgerState.cs",
               "RelativeDocumentMoniker": "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\IBurgerState.cs",
@@ -1042,7 +1103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\Program.cs",
               "RelativeDocumentMoniker": "\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\Program.cs",
@@ -1050,11 +1111,12 @@
               "RelativeToolTip": "\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T18:23:01.128Z"
+              "WhenOpened": "2024-03-18T18:23:01.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "FeedVisitor.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\FeedVisitor.cs",
               "RelativeDocumentMoniker": "\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\FeedVisitor.cs",
@@ -1062,11 +1124,12 @@
               "RelativeToolTip": "\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\FeedVisitor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:22:59.169Z"
+              "WhenOpened": "2024-03-18T19:22:59.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "Client.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\Client.cs",
               "RelativeDocumentMoniker": "\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\Client.cs",
@@ -1074,11 +1137,12 @@
               "RelativeToolTip": "\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\Client.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T13:29:08.397Z"
+              "WhenOpened": "2024-03-09T13:29:08.397Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "WithdrawCommand.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\WithdrawCommand.cs",
               "RelativeDocumentMoniker": "\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\WithdrawCommand.cs",
@@ -1086,11 +1150,12 @@
               "RelativeToolTip": "\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\WithdrawCommand.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwCUAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T13:17:06.436Z"
+              "WhenOpened": "2024-03-09T13:17:06.436Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "PutCommand.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\PutCommand.cs",
               "RelativeDocumentMoniker": "\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\PutCommand.cs",
@@ -1098,11 +1163,12 @@
               "RelativeToolTip": "\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\PutCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T13:17:18.704Z"
+              "WhenOpened": "2024-03-09T13:17:18.704Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "Command.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\Command.cs",
               "RelativeDocumentMoniker": "\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\Command.cs",
@@ -1110,11 +1176,12 @@
               "RelativeToolTip": "\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\Command.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T13:13:49.987Z"
+              "WhenOpened": "2024-03-09T13:13:49.987Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "ATM.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\ATM.cs",
               "RelativeDocumentMoniker": "\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\ATM.cs",
@@ -1122,11 +1189,12 @@
               "RelativeToolTip": "\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\ATM.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T13:15:15.88Z"
+              "WhenOpened": "2024-03-09T13:15:15.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "ComandStatus.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\ComandStatus.cs",
               "RelativeDocumentMoniker": "\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\ComandStatus.cs",
@@ -1134,11 +1202,12 @@
               "RelativeToolTip": "\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\ComandStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T13:43:04.605Z"
+              "WhenOpened": "2024-03-09T13:43:04.605Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Secondary\\Employee.cs",
               "RelativeDocumentMoniker": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Secondary\\Employee.cs",
@@ -1150,7 +1219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 52,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Program.cs",
               "RelativeDocumentMoniker": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Program.cs",
@@ -1162,7 +1231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 53,
               "Title": "Monkey.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\Monkey.cs",
               "RelativeDocumentMoniker": "\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\Monkey.cs",
@@ -1170,11 +1239,12 @@
               "RelativeToolTip": "\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\Monkey.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:22:00.67Z"
+              "WhenOpened": "2024-03-18T19:22:00.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 80,
               "Title": "StockFacade.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\StockFacade.cs",
               "RelativeDocumentMoniker": "\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\StockFacade.cs",
@@ -1186,7 +1256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 61,
               "Title": "TeaMaker.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0428\u0430\u0431\u043B\u043E\u043D\u043D\u044B\u0439 \u043C\u0435\u0442\u043E\u0434\\TeaMaker.cs",
               "RelativeDocumentMoniker": "\u0428\u0430\u0431\u043B\u043E\u043D\u043D\u044B\u0439 \u043C\u0435\u0442\u043E\u0434\\TeaMaker.cs",
@@ -1198,7 +1268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 59,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0428\u0430\u0431\u043B\u043E\u043D\u043D\u044B\u0439 \u043C\u0435\u0442\u043E\u0434\\Program.cs",
               "RelativeDocumentMoniker": "\u0428\u0430\u0431\u043B\u043E\u043D\u043D\u044B\u0439 \u043C\u0435\u0442\u043E\u0434\\Program.cs",
@@ -1210,7 +1280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 58,
               "Title": "BeverageMaker.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0428\u0430\u0431\u043B\u043E\u043D\u043D\u044B\u0439 \u043C\u0435\u0442\u043E\u0434\\BeverageMaker.cs",
               "RelativeDocumentMoniker": "\u0428\u0430\u0431\u043B\u043E\u043D\u043D\u044B\u0439 \u043C\u0435\u0442\u043E\u0434\\BeverageMaker.cs",
@@ -1222,7 +1292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 60,
               "Title": "CofeeMaker.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0428\u0430\u0431\u043B\u043E\u043D\u043D\u044B\u0439 \u043C\u0435\u0442\u043E\u0434\\CofeeMaker.cs",
               "RelativeDocumentMoniker": "\u0428\u0430\u0431\u043B\u043E\u043D\u043D\u044B\u0439 \u043C\u0435\u0442\u043E\u0434\\CofeeMaker.cs",
@@ -1234,7 +1304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 57,
               "Title": "Animal.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\Animal.cs",
               "RelativeDocumentMoniker": "\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\Animal.cs",
@@ -1242,11 +1312,12 @@
               "RelativeToolTip": "\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\Animal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:20:01.565Z"
+              "WhenOpened": "2024-03-18T19:20:01.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 56,
               "Title": "PetVisitor.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\PetVisitor.cs",
               "RelativeDocumentMoniker": "\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\PetVisitor.cs",
@@ -1254,11 +1325,12 @@
               "RelativeToolTip": "\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\PetVisitor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:26:11.914Z"
+              "WhenOpened": "2024-03-18T19:26:11.914Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 55,
               "Title": "IVisitor.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\IVisitor.cs",
               "RelativeDocumentMoniker": "\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\IVisitor.cs",
@@ -1266,11 +1338,12 @@
               "RelativeToolTip": "\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\IVisitor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:20:33.787Z"
+              "WhenOpened": "2024-03-18T19:20:33.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 54,
               "Title": "Lion.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\Lion.cs",
               "RelativeDocumentMoniker": "\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\Lion.cs",
@@ -1278,11 +1351,12 @@
               "RelativeToolTip": "\u041F\u043E\u0441\u0435\u0442\u0438\u0442\u0435\u043B\u044C\\Lion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:20:46.394Z"
+              "WhenOpened": "2024-03-18T19:20:46.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 62,
               "Title": "ModernFurnitureFactory.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Singleton\\ModernFurnitureFactory.cs",
               "RelativeDocumentMoniker": "Singleton\\ModernFurnitureFactory.cs",
@@ -1290,11 +1364,12 @@
               "RelativeToolTip": "Singleton\\ModernFurnitureFactory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T18:14:03.626Z"
+              "WhenOpened": "2024-03-03T18:14:03.626Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 64,
               "Title": "ModernChair.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Singleton\\ModernChair.cs",
               "RelativeDocumentMoniker": "Singleton\\ModernChair.cs",
@@ -1302,11 +1377,12 @@
               "RelativeToolTip": "Singleton\\ModernChair.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T18:14:01.308Z"
+              "WhenOpened": "2024-03-03T18:14:01.308Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 67,
               "Title": "ModernTable.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Singleton\\ModernTable.cs",
               "RelativeDocumentMoniker": "Singleton\\ModernTable.cs",
@@ -1314,11 +1390,12 @@
               "RelativeToolTip": "Singleton\\ModernTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T18:14:06.294Z"
+              "WhenOpened": "2024-03-03T18:14:06.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 65,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Singleton\\Program.cs",
               "RelativeDocumentMoniker": "Singleton\\Program.cs",
@@ -1326,11 +1403,12 @@
               "RelativeToolTip": "Singleton\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwCgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:10:22.877Z"
+              "WhenOpened": "2024-03-03T14:10:22.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 63,
               "Title": "FurnitureFactory.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Singleton\\FurnitureFactory.cs",
               "RelativeDocumentMoniker": "Singleton\\FurnitureFactory.cs",
@@ -1338,11 +1416,12 @@
               "RelativeToolTip": "Singleton\\FurnitureFactory.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T18:13:47.71Z"
+              "WhenOpened": "2024-03-03T18:13:47.71Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 66,
               "Title": "VintageFurnitureFactory.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Singleton\\VintageFurnitureFactory.cs",
               "RelativeDocumentMoniker": "Singleton\\VintageFurnitureFactory.cs",
@@ -1350,11 +1429,12 @@
               "RelativeToolTip": "Singleton\\VintageFurnitureFactory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T18:14:13.196Z"
+              "WhenOpened": "2024-03-03T18:14:13.196Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 68,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0421\u0442\u0430\u0440\u0442\u0435\u0433\u0438\u044F\\Program.cs",
               "RelativeDocumentMoniker": "\u0421\u0442\u0430\u0440\u0442\u0435\u0433\u0438\u044F\\Program.cs",
@@ -1366,7 +1446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 69,
               "Title": "Sorter.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0421\u0442\u0430\u0440\u0442\u0435\u0433\u0438\u044F\\Sorter.cs",
               "RelativeDocumentMoniker": "\u0421\u0442\u0430\u0440\u0442\u0435\u0433\u0438\u044F\\Sorter.cs",
@@ -1378,7 +1458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 72,
               "Title": "ISortMethod.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0421\u0442\u0430\u0440\u0442\u0435\u0433\u0438\u044F\\ISortMethod.cs",
               "RelativeDocumentMoniker": "\u0421\u0442\u0430\u0440\u0442\u0435\u0433\u0438\u044F\\ISortMethod.cs",
@@ -1390,7 +1470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 71,
               "Title": "BubbleSortStrategy.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0421\u0442\u0430\u0440\u0442\u0435\u0433\u0438\u044F\\BubbleSortStrategy.cs",
               "RelativeDocumentMoniker": "\u0421\u0442\u0430\u0440\u0442\u0435\u0433\u0438\u044F\\BubbleSortStrategy.cs",
@@ -1402,7 +1482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 70,
               "Title": "InsertionSortStrategy.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0421\u0442\u0430\u0440\u0442\u0435\u0433\u0438\u044F\\InsertionSortStrategy.cs",
               "RelativeDocumentMoniker": "\u0421\u0442\u0430\u0440\u0442\u0435\u0433\u0438\u044F\\InsertionSortStrategy.cs",
@@ -1414,7 +1494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 73,
               "Title": "VintageChair.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Singleton\\VintageChair.cs",
               "RelativeDocumentMoniker": "Singleton\\VintageChair.cs",
@@ -1422,23 +1502,12 @@
               "RelativeToolTip": "Singleton\\VintageChair.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T18:14:11.133Z"
+              "WhenOpened": "2024-03-03T18:14:11.133Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "EmployeeOffice.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeOffice.cs",
-              "RelativeDocumentMoniker": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeOffice.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeOffice.cs",
-              "RelativeToolTip": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\EmployeeOffice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:04:38.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 74,
               "Title": "Reception.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\Reception.cs",
               "RelativeDocumentMoniker": "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435\\Reception.cs",
@@ -1450,19 +1519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "DatabaseProxy.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\DatabaseProxy.cs",
-              "RelativeDocumentMoniker": "\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\DatabaseProxy.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\DatabaseProxy.cs",
-              "RelativeToolTip": "\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\DatabaseProxy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T17:59:36.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 75,
               "Title": "Chair.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Singleton\\Chair.cs",
               "RelativeDocumentMoniker": "Singleton\\Chair.cs",
@@ -1470,11 +1527,12 @@
               "RelativeToolTip": "Singleton\\Chair.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T18:13:58.657Z"
+              "WhenOpened": "2024-03-03T18:13:58.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 78,
               "Title": "Seller.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Secondary\\Seller.cs",
               "RelativeDocumentMoniker": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Secondary\\Seller.cs",
@@ -1486,7 +1544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 77,
               "Title": "Advertiser.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Secondary\\Advertiser.cs",
               "RelativeDocumentMoniker": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Secondary\\Advertiser.cs",
@@ -1498,7 +1556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 76,
               "Title": "Loader.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Secondary\\Loader.cs",
               "RelativeDocumentMoniker": "\u041D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C\\Secondary\\Loader.cs",
@@ -1510,7 +1568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 79,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\Employee.cs",
               "RelativeDocumentMoniker": "\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\Employee.cs",
@@ -1522,19 +1580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\User.cs",
-              "RelativeDocumentMoniker": "\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\User.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\User.cs",
-              "RelativeToolTip": "\u041F\u043E\u0441\u0440\u0435\u0434\u043D\u0438\u043A\\User.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T14:05:12.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 85,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\Program.cs",
               "RelativeDocumentMoniker": "\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\Program.cs",
@@ -1542,11 +1588,12 @@
               "RelativeToolTip": "\u041A\u043E\u043C\u0430\u043D\u0434\u0430\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T13:03:10.787Z"
+              "WhenOpened": "2024-03-09T13:03:10.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 81,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0418\u0442\u0435\u0440\u0430\u0442\u043E\u0440\\Program.cs",
               "RelativeDocumentMoniker": "\u0418\u0442\u0435\u0440\u0430\u0442\u043E\u0440\\Program.cs",
@@ -1554,11 +1601,12 @@
               "RelativeToolTip": "\u0418\u0442\u0435\u0440\u0430\u0442\u043E\u0440\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T19:32:36.233Z"
+              "WhenOpened": "2024-03-09T19:32:36.233Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 84,
               "Title": "Iterator.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0418\u0442\u0435\u0440\u0430\u0442\u043E\u0440\\Iterator\\Iterator.cs",
               "RelativeDocumentMoniker": "\u0418\u0442\u0435\u0440\u0430\u0442\u043E\u0440\\Iterator\\Iterator.cs",
@@ -1566,11 +1614,12 @@
               "RelativeToolTip": "\u0418\u0442\u0435\u0440\u0430\u0442\u043E\u0440\\Iterator\\Iterator.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T19:37:35.562Z"
+              "WhenOpened": "2024-03-09T19:37:35.562Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 82,
               "Title": "OneDementionalIterator.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0418\u0442\u0435\u0440\u0430\u0442\u043E\u0440\\Iterator\\OneDementionalIterator.cs",
               "RelativeDocumentMoniker": "\u0418\u0442\u0435\u0440\u0430\u0442\u043E\u0440\\Iterator\\OneDementionalIterator.cs",
@@ -1578,11 +1627,12 @@
               "RelativeToolTip": "\u0418\u0442\u0435\u0440\u0430\u0442\u043E\u0440\\Iterator\\OneDementionalIterator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T19:42:35.517Z"
+              "WhenOpened": "2024-03-09T19:42:35.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 83,
               "Title": "SkipOddIterator.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0418\u0442\u0435\u0440\u0430\u0442\u043E\u0440\\Iterator\\SkipOddIterator.cs",
               "RelativeDocumentMoniker": "\u0418\u0442\u0435\u0440\u0430\u0442\u043E\u0440\\Iterator\\SkipOddIterator.cs",
@@ -1590,11 +1640,12 @@
               "RelativeToolTip": "\u0418\u0442\u0435\u0440\u0430\u0442\u043E\u0440\\Iterator\\SkipOddIterator.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwDAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T19:55:47.379Z"
+              "WhenOpened": "2024-03-09T19:55:47.379Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 87,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0424\u0430\u0441\u0430\u0434\\Program.cs",
               "RelativeDocumentMoniker": "\u0424\u0430\u0441\u0430\u0434\\Program.cs",
@@ -1606,19 +1657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
-              "Title": "StockFacade.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0424\u0430\u0441\u0430\u0434\\StockFacade.cs",
-              "RelativeDocumentMoniker": "\u0424\u0430\u0441\u0430\u0434\\StockFacade.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0424\u0430\u0441\u0430\u0434\\StockFacade.cs",
-              "RelativeToolTip": "\u0424\u0430\u0441\u0430\u0434\\StockFacade.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAuwA8AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T10:36:45.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 86,
               "Title": "Seller.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Seller.cs",
               "RelativeDocumentMoniker": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Seller.cs",
@@ -1626,11 +1665,12 @@
               "RelativeToolTip": "\u0426\u0435\u043F\u043E\u0447\u043A\u0430 \u043E\u0431\u044F\u0437\u0430\u043D\u043D\u043E\u0441\u0442\u0435\u0439\\Employees\\Seller.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:07:26.222Z"
+              "WhenOpened": "2024-03-09T11:07:26.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 88,
               "Title": "IBurgerBuilder.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Builder\\IBurgerBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\IBurgerBuilder.cs",
@@ -1638,11 +1678,12 @@
               "RelativeToolTip": "Builder\\IBurgerBuilder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T20:40:42.421Z"
+              "WhenOpened": "2024-03-01T20:40:42.421Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 94,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u041F\u0440\u0438\u0441\u043F\u043E\u0441\u043E\u0431\u043B\u0435\u043D\u0435\u0446\\Program.cs",
               "RelativeDocumentMoniker": "\u041F\u0440\u0438\u0441\u043F\u043E\u0441\u043E\u0431\u043B\u0435\u043D\u0435\u0446\\Program.cs",
@@ -1654,7 +1695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 91,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\Program.cs",
               "RelativeDocumentMoniker": "\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\Program.cs",
@@ -1666,7 +1707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 89,
               "Title": "EmployeeNotifier.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\EmployeeNotifier.cs",
               "RelativeDocumentMoniker": "\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\EmployeeNotifier.cs",
@@ -1678,7 +1719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 97,
               "Title": "EmployeeOffice.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0424\u0430\u0441\u0430\u0434\\EmployeeOffice.cs",
               "RelativeDocumentMoniker": "\u0424\u0430\u0441\u0430\u0434\\EmployeeOffice.cs",
@@ -1690,7 +1731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 96,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0424\u0430\u0441\u0430\u0434\\Employee.cs",
               "RelativeDocumentMoniker": "\u0424\u0430\u0441\u0430\u0434\\Employee.cs",
@@ -1702,7 +1743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 92,
               "Title": "Database.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\Database.cs",
               "RelativeDocumentMoniker": "\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\Database.cs",
@@ -1714,7 +1755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 93,
               "Title": "IDatabase.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\IDatabase.cs",
               "RelativeDocumentMoniker": "\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\IDatabase.cs",
@@ -1726,7 +1767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 90,
               "Title": "EmployeeOffice.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\EmployeeOffice.cs",
               "RelativeDocumentMoniker": "\u0417\u0430\u043C\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u044C\\EmployeeOffice.cs",
@@ -1738,7 +1779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 95,
               "Title": "EmployeeNotifier.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0424\u0430\u0441\u0430\u0434\\EmployeeNotifier.cs",
               "RelativeDocumentMoniker": "\u0424\u0430\u0441\u0430\u0434\\EmployeeNotifier.cs",
@@ -1750,7 +1791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 98,
               "Title": "Database.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\\u0424\u0430\u0441\u0430\u0434\\Database.cs",
               "RelativeDocumentMoniker": "\u0424\u0430\u0441\u0430\u0434\\Database.cs",
@@ -1762,7 +1803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 102,
               "Title": "packages.config",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Bridge\\packages.config",
               "RelativeDocumentMoniker": "Bridge\\packages.config",
@@ -1770,11 +1811,12 @@
               "RelativeToolTip": "Bridge\\packages.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-05T21:12:01.32Z"
+              "WhenOpened": "2024-03-05T21:12:01.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 103,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Bridge\\Program.cs",
               "RelativeDocumentMoniker": "Bridge\\Program.cs",
@@ -1782,11 +1824,12 @@
               "RelativeToolTip": "Bridge\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:37:55.41Z"
+              "WhenOpened": "2024-03-05T20:37:55.41Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 100,
               "Title": "PrinterDrawingAPIFactory.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Bridge\\AbstractFactory\\PrinterDrawingAPIFactory.cs",
               "RelativeDocumentMoniker": "Bridge\\AbstractFactory\\PrinterDrawingAPIFactory.cs",
@@ -1794,11 +1837,12 @@
               "RelativeToolTip": "Bridge\\AbstractFactory\\PrinterDrawingAPIFactory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:58:45.071Z"
+              "WhenOpened": "2024-03-05T20:58:45.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 99,
               "Title": "DrawingAPIFactory.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Bridge\\AbstractFactory\\DrawingAPIFactory.cs",
               "RelativeDocumentMoniker": "Bridge\\AbstractFactory\\DrawingAPIFactory.cs",
@@ -1806,11 +1850,12 @@
               "RelativeToolTip": "Bridge\\AbstractFactory\\DrawingAPIFactory.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAqwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:48:32.439Z"
+              "WhenOpened": "2024-03-05T20:48:32.439Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 101,
               "Title": "App.config",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Bridge\\App.config",
               "RelativeDocumentMoniker": "Bridge\\App.config",
@@ -1818,11 +1863,12 @@
               "RelativeToolTip": "Bridge\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-05T20:55:08.397Z"
+              "WhenOpened": "2024-03-05T20:55:08.397Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 104,
               "Title": "ScreenDrawingAPIFactory.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Bridge\\AbstractFactory\\ScreenDrawingAPIFactory.cs",
               "RelativeDocumentMoniker": "Bridge\\AbstractFactory\\ScreenDrawingAPIFactory.cs",
@@ -1830,11 +1876,12 @@
               "RelativeToolTip": "Bridge\\AbstractFactory\\ScreenDrawingAPIFactory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:56:54.355Z"
+              "WhenOpened": "2024-03-05T20:56:54.355Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 105,
               "Title": "ScreenDrawingAPI.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Bridge\\ScreenDrawingAPI.cs",
               "RelativeDocumentMoniker": "Bridge\\ScreenDrawingAPI.cs",
@@ -1842,11 +1889,12 @@
               "RelativeToolTip": "Bridge\\ScreenDrawingAPI.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:41:13.19Z"
+              "WhenOpened": "2024-03-05T20:41:13.19Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 106,
               "Title": "Square.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Bridge\\Square.cs",
               "RelativeDocumentMoniker": "Bridge\\Square.cs",
@@ -1854,11 +1902,12 @@
               "RelativeToolTip": "Bridge\\Square.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:47:06.761Z"
+              "WhenOpened": "2024-03-05T20:47:06.761Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 107,
               "Title": "Shape.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Bridge\\Shape.cs",
               "RelativeDocumentMoniker": "Bridge\\Shape.cs",
@@ -1866,11 +1915,12 @@
               "RelativeToolTip": "Bridge\\Shape.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:39:10.059Z"
+              "WhenOpened": "2024-03-05T20:39:10.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 108,
               "Title": "PrinterDrawingAPI.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Bridge\\PrinterDrawingAPI.cs",
               "RelativeDocumentMoniker": "Bridge\\PrinterDrawingAPI.cs",
@@ -1878,11 +1928,12 @@
               "RelativeToolTip": "Bridge\\PrinterDrawingAPI.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:41:36.277Z"
+              "WhenOpened": "2024-03-05T20:41:36.277Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 109,
               "Title": "Table.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Singleton\\Table.cs",
               "RelativeDocumentMoniker": "Singleton\\Table.cs",
@@ -1890,11 +1941,12 @@
               "RelativeToolTip": "Singleton\\Table.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T18:14:09.029Z"
+              "WhenOpened": "2024-03-03T18:14:09.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 110,
               "Title": "Circle.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Bridge\\Circle.cs",
               "RelativeDocumentMoniker": "Bridge\\Circle.cs",
@@ -1902,11 +1954,12 @@
               "RelativeToolTip": "Bridge\\Circle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:45:13.695Z"
+              "WhenOpened": "2024-03-05T20:45:13.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 111,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\Adapter\\Program.cs",
               "RelativeDocumentMoniker": "Adapter\\Program.cs",
@@ -1914,11 +1967,12 @@
               "RelativeToolTip": "Adapter\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T12:10:27.268Z"
+              "WhenOpened": "2024-03-05T12:10:27.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 112,
               "Title": "IBurgerFactory.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\FabricMethod\\FabricMethods\\IBurgerFactory.cs",
               "RelativeDocumentMoniker": "FabricMethod\\FabricMethods\\IBurgerFactory.cs",
@@ -1926,23 +1980,12 @@
               "RelativeToolTip": "FabricMethod\\FabricMethods\\IBurgerFactory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T11:28:44.036Z"
+              "WhenOpened": "2024-03-02T11:28:44.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
-              "Title": "VintageFurnitureFactory.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\VintageFurnitureFactory.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\VintageFurnitureFactory.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\VintageFurnitureFactory.cs",
-              "RelativeToolTip": "AbstractFactory\\VintageFurnitureFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T11:46:21.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 114,
               "Title": "VintageChair.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\VintageChair.cs",
               "RelativeDocumentMoniker": "AbstractFactory\\VintageChair.cs",
@@ -1950,11 +1993,12 @@
               "RelativeToolTip": "AbstractFactory\\VintageChair.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T11:43:27.183Z"
+              "WhenOpened": "2024-03-01T11:43:27.183Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 113,
               "Title": "VintageTable.cs",
               "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\VintageTable.cs",
               "RelativeDocumentMoniker": "AbstractFactory\\VintageTable.cs",
@@ -1962,19 +2006,8 @@
               "RelativeToolTip": "AbstractFactory\\VintageTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T11:45:00.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 114,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\Program.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\Program.cs",
-              "ToolTip": "D:\\Learning\\DI and Patterns\\PatternsSolution\\AbstractFactory\\Program.cs",
-              "RelativeToolTip": "AbstractFactory\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T11:04:35.816Z"
+              "WhenOpened": "2024-03-01T11:45:00.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1986,7 +2019,8 @@
               "RelativeToolTip": "Singleton\\VintageTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T18:14:15.543Z"
+              "WhenOpened": "2024-03-03T18:14:15.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1998,7 +2032,8 @@
               "RelativeToolTip": "FabricMethod\\Classes\\ChiefBurger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T11:26:41.729Z"
+              "WhenOpened": "2024-03-02T11:26:41.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2010,7 +2045,8 @@
               "RelativeToolTip": "FabricMethod\\Classes\\BurgerComponents\\Cutlet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T11:24:19.568Z"
+              "WhenOpened": "2024-03-02T11:24:19.568Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2022,7 +2058,8 @@
               "RelativeToolTip": "FabricMethod\\Classes\\BurgerComponents\\Cheese.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T11:24:16.967Z"
+              "WhenOpened": "2024-03-02T11:24:16.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2034,7 +2071,8 @@
               "RelativeToolTip": "FabricMethod\\Classes\\BurgerComponents\\Bun.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T11:24:13.507Z"
+              "WhenOpened": "2024-03-02T11:24:13.507Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2046,7 +2084,8 @@
               "RelativeToolTip": "FabricMethod\\Classes\\CheeseBurger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T11:23:42.62Z"
+              "WhenOpened": "2024-03-02T11:23:42.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2058,7 +2097,8 @@
               "RelativeToolTip": "FabricMethod\\Classes\\BurgerComponents\\Souce.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T11:24:21.544Z"
+              "WhenOpened": "2024-03-02T11:24:21.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2070,7 +2110,8 @@
               "RelativeToolTip": "FabricMethod\\Classes\\BurgerComponents\\Vegetables.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T11:24:23.842Z"
+              "WhenOpened": "2024-03-02T11:24:23.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2082,7 +2123,8 @@
               "RelativeToolTip": "Builder\\Burger.cs",
               "ViewState": "AQIAAE8AAAAAAAAAAAAUwF8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T21:02:03.213Z"
+              "WhenOpened": "2024-03-01T21:02:03.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2094,7 +2136,8 @@
               "RelativeToolTip": "FabricMethod\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T11:41:09.394Z"
+              "WhenOpened": "2024-03-02T11:41:09.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2106,7 +2149,8 @@
               "RelativeToolTip": "FabricMethod\\Classes\\BurgerComponents\\BurgerComponent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T11:33:58.27Z"
+              "WhenOpened": "2024-03-02T11:33:58.27Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2118,7 +2162,8 @@
               "RelativeToolTip": "AbstractFactory\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-01T12:23:15.902Z"
+              "WhenOpened": "2024-03-01T12:23:15.902Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2130,7 +2175,8 @@
               "RelativeToolTip": "Builder\\Cheese.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T20:43:32.032Z"
+              "WhenOpened": "2024-03-01T20:43:32.032Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2142,7 +2188,8 @@
               "RelativeToolTip": "Builder\\Cutlet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T20:45:08.601Z"
+              "WhenOpened": "2024-03-01T20:45:08.601Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2154,7 +2201,8 @@
               "RelativeToolTip": "AbstractFactory\\Chair.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T11:41:51.102Z"
+              "WhenOpened": "2024-03-01T11:41:51.102Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2166,7 +2214,8 @@
               "RelativeToolTip": "Builder\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:00:05.254Z"
+              "WhenOpened": "2024-03-01T12:00:05.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2178,7 +2227,8 @@
               "RelativeToolTip": "Builder\\Bun.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T20:41:18.011Z"
+              "WhenOpened": "2024-03-01T20:41:18.011Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2190,7 +2240,8 @@
               "RelativeToolTip": "Builder\\Vegetables.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T20:46:50.984Z"
+              "WhenOpened": "2024-03-01T20:46:50.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2202,7 +2253,8 @@
               "RelativeToolTip": "Builder\\Souce.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T20:55:39.402Z"
+              "WhenOpened": "2024-03-01T20:55:39.402Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -2214,7 +2266,8 @@
               "RelativeToolTip": "AbstractFactory\\Table.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T11:41:59.242Z"
+              "WhenOpened": "2024-03-01T11:41:59.242Z",
+              "EditorCaption": ""
             }
           ]
         },

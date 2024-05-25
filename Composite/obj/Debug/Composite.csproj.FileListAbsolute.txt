@@ -1,0 +1,7 @@
+D:\Learning\DI and Patterns\PatternsSolution\Компоновщик\bin\Debug\Компоновщик.exe.config
+D:\Learning\DI and Patterns\PatternsSolution\Компоновщик\bin\Debug\Компоновщик.exe
+D:\Learning\DI and Patterns\PatternsSolution\Компоновщик\bin\Debug\Компоновщик.pdb
+D:\Learning\DI and Patterns\PatternsSolution\Компоновщик\obj\Debug\Composite.csproj.AssemblyReference.cache
+D:\Learning\DI and Patterns\PatternsSolution\Компоновщик\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+D:\Learning\DI and Patterns\PatternsSolution\Компоновщик\obj\Debug\Компоновщик.exe
+D:\Learning\DI and Patterns\PatternsSolution\Компоновщик\obj\Debug\Компоновщик.pdb
